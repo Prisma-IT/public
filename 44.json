@@ -4,9 +4,9 @@
          "orgName":"AG Ambient Intelligence",
          "profs":"nein",
          "orgName_gelesen":"AG Ambient Intelligence",
-         "orgNameMitPfad":"Technische FakultÃ¤t / Arbeitsgruppen / AG Ambient Intelligence",
+         "orgNameMitPfad":"Technische Fakultät / Arbeitsgruppen / AG Ambient Intelligence",
          "raumplanURL":"https://ekvv.uni-bielefeld.de/pers_publ/plan/campusplan.html?zeige=CITEC",
-         "raum_gelesen":"CITECâ¦3â¦217",
+         "raum_gelesen":"CITEC…3…217",
          "raum":"CITEC 3-217",
          "org_id":24110126,
          "telefon":"+49 521 106-12140",
@@ -15,7 +15,7 @@
          "standort":"CITEC",
          "etage":"3",
          "raumnr":"217",
-         "email":"&#116;he&#114;ma&#110;n@&#116;ec&#104;fa&#107;.u&#110;i-&#98;ie&#108;ef&#101;ld&#46;de",
+         "email":"thermann@techfak.uni-bielefeld.de",
          "funktionAsHTML":"<p>Leiter der AG Ambient Intelligence<br/>Studiengangskoordinator Informatik</p>",
          "prioritaet":1,
          "kontakt_id":24110607
@@ -24,9 +24,9 @@
          "orgName":"Team Studium und Lehre ",
          "profs":"nein",
          "orgName_gelesen":"Team Studium und Lehre ",
-         "orgNameMitPfad":"Technische FakultÃ¤t / FakultÃ¤tsleitung und Verwaltung / Team Studium und Lehre ",
+         "orgNameMitPfad":"Technische Fakultät / Fakultätsleitung und Verwaltung / Team Studium und Lehre ",
          "org_id":268286279,
-         "email":"&#105;n&#102;o&#114;m&#97;t&#105;k&#46;t&#101;c&#104;f&#97;k&#64;u&#110;i&#45;b&#105;e&#108;e&#102;e&#108;d&#46;d&#101;",
+         "email":"informatik.techfak@uni-bielefeld.de",
          "funktionAsHTML":"<p>Studiengangskoordinator Informatik</p>",
          "prioritaet":2,
          "kontakt_id":268285974
@@ -46,9 +46,9 @@
          "orgName":"Akademische Studienberatung",
          "profs":"nein",
          "orgName_gelesen":"Akademische Studienberatung",
-         "orgNameMitPfad":"Technische FakultÃ¤t / Studienberatung / Akademische Studienberatung",
+         "orgNameMitPfad":"Technische Fakultät / Studienberatung / Akademische Studienberatung",
          "org_id":7526221,
-         "email":"&#116;he&#114;ma&#110;n@&#116;ec&#104;fa&#107;.u&#110;i-&#98;ie&#108;ef&#101;ld&#46;de",
+         "email":"thermann@techfak.uni-bielefeld.de",
          "funktionAsHTML":"<p>Akademische Studienberatung Bachelor Kernfach Informatik und Nebenfach Grundlagen kognitiver Systeme</p>",
          "prioritaet":4,
          "kontakt_id":243963037
@@ -57,9 +57,9 @@
          "orgName":"Studiengangsbeauftragte",
          "profs":"nein",
          "orgName_gelesen":"Studiengangsbeauftragte",
-         "orgNameMitPfad":"Technische FakultÃ¤t / Beauftragte / Studiengangsbeauftragte",
+         "orgNameMitPfad":"Technische Fakultät / Beauftragte / Studiengangsbeauftragte",
          "org_id":6705327,
-         "email":"&#116;her&#109;ann&#64;tec&#104;fak&#46;uni&#45;bie&#108;efe&#108;d.d&#101;",
+         "email":"thermann@techfak.uni-bielefeld.de",
          "funktionAsHTML":"<p>Informatik (BA)</p>",
          "prioritaet":5,
          "kontakt_id":295692574
@@ -68,9 +68,9 @@
          "orgName":"Studienbeirat Informatik",
          "profs":"nein",
          "orgName_gelesen":"Studienbeirat Informatik",
-         "orgNameMitPfad":"Technische FakultÃ¤t / Kommissionen und AusschÃ¼sse / Studienbeirat Informatik",
+         "orgNameMitPfad":"Technische Fakultät / Kommissionen und Ausschüsse / Studienbeirat Informatik",
          "org_id":70795979,
-         "email":"&#116;her&#109;ann&#64;tec&#104;fak&#46;uni&#45;bie&#108;efe&#108;d.d&#101;",
+         "email":"thermann@techfak.uni-bielefeld.de",
          "funktionAsHTML":"<p>Gruppe der akademischen Mitarbeiter*innen</p>",
          "prioritaet":6,
          "kontakt_id":295705946
@@ -79,9 +79,9 @@
          "orgName":"Studienbeirat Biotechnologie",
          "profs":"nein",
          "orgName_gelesen":"Studienbeirat Biotechnologie",
-         "orgNameMitPfad":"Technische FakultÃ¤t / Kommissionen und AusschÃ¼sse / Studienbeirat Biotechnologie",
+         "orgNameMitPfad":"Technische Fakultät / Kommissionen und Ausschüsse / Studienbeirat Biotechnologie",
          "org_id":70814337,
-         "email":"&#116;h&#101;r&#109;a&#110;n&#64;t&#101;c&#104;f&#97;k&#46;u&#110;i&#45;b&#105;e&#108;e&#102;e&#108;d&#46;d&#101;",
+         "email":"thermann@techfak.uni-bielefeld.de",
          "funktionAsHTML":"<p>pers. Stellv. von Dr. Dominik Cholewa<br/>Gruppe der akademischen Mitarbeiter*innen</p>",
          "prioritaet":7,
          "kontakt_id":295732012
@@ -90,9 +90,9 @@
          "orgName":"Informatik (Bachelor)",
          "profs":"nein",
          "orgName_gelesen":"Informatik (Bachelor)",
-         "orgNameMitPfad":"Technische FakultÃ¤t / Kommissionen und AusschÃ¼sse / PrÃ¼fungsausschÃ¼sse / Informatik (Bachelor)",
+         "orgNameMitPfad":"Technische Fakultät / Kommissionen und Ausschüsse / Prüfungsausschüsse / Informatik (Bachelor)",
          "org_id":294906383,
-         "email":"&#116;her&#109;ann&#64;tec&#104;fak&#46;uni&#45;bie&#108;efe&#108;d.d&#101;",
+         "email":"thermann@techfak.uni-bielefeld.de",
          "funktionAsHTML":"<p>Akademische Mitarbeiter*innen</p>",
          "prioritaet":8,
          "kontakt_id":295951141
@@ -101,9 +101,9 @@
          "orgName":"QM Koordination",
          "profs":"nein",
          "orgName_gelesen":"QM Koordination",
-         "orgNameMitPfad":"Technische FakultÃ¤t / Beauftragte / QM Koordination",
+         "orgNameMitPfad":"Technische Fakultät / Beauftragte / QM Koordination",
          "org_id":223423152,
-         "email":"&#116;h&#101;r&#109;a&#110;n&#64;t&#101;c&#104;f&#97;k&#46;u&#110;i&#45;b&#105;e&#108;e&#102;e&#108;d&#46;d&#101;",
+         "email":"thermann@techfak.uni-bielefeld.de",
          "prioritaet":9,
          "kontakt_id":337218132
       },
@@ -111,7 +111,7 @@
          "orgName":"EDV-Betreuer",
          "profs":"nein",
          "orgName_gelesen":"EDV-Betreuer",
-         "orgNameMitPfad":"Technische FakultÃ¤t / Services / EDV-Betreuer",
+         "orgNameMitPfad":"Technische Fakultät / Services / EDV-Betreuer",
          "org_id":395034409,
          "funktionAsHTML":"<p>EDV Betreuung - AG Ambient Intelligence</p>",
          "prioritaet":10,
@@ -121,7 +121,7 @@
          "orgName":"Anlaufstelle Nachteilsausgleich",
          "profs":"nein",
          "orgName_gelesen":"Anlaufstelle Nachteilsausgleich",
-         "orgNameMitPfad":"Technische FakultÃ¤t / Beauftragte / Anlaufstelle Nachteilsausgleich",
+         "orgNameMitPfad":"Technische Fakultät / Beauftragte / Anlaufstelle Nachteilsausgleich",
          "orgName_en":"Contact for Disadvantage Compensation",
          "orgName_en_gelesen":"Contact for Disadvantage Compensation",
          "org_id":408025678,
@@ -164,14 +164,14 @@
          "dynamicObjects.linkVolltextIntern":"https://pub.uni-bielefeld.de/record/2703564",
          "dynamicObjects.linkVolltext":null,
          "dynamicObjects.related_material":"material record public other:2017256",
-         "dynamicObjects.apa":"Hermann, T. (2009).  <em>Supplementary Material for \"Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn\"</em>. Bielefeld University. doi:10.4119/unibi/2703564",
-         "dynamicObjects.mla":"Hermann, Thomas. <em>Supplementary Material for \"Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn\"</em>. Bielefeld University, 2009.",
-         "dynamicObjects.chicago":"<div style=\"text-indent:-25px; padding-left:25px;padding-bottom:0px;\">Hermann, Thomas. 2009. <em>Supplementary Material for \"Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn\"</em>. Bielefeld University.</div>",
-         "dynamicObjects.ieee":" T. Hermann, <em>Supplementary Material for \"Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn\"</em>, Bielefeld University, 2009.",
-         "dynamicObjects.harvard":"Hermann, T., 2009. <em>Supplementary Material for \"Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn\"</em>, Bielefeld University.",
-         "dynamicObjects.ama":"Hermann T. <em>Supplementary Material for \"Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn\"</em>. Bielefeld University; 2009.",
-         "dynamicObjects.lncs":" Hermann, T.: Supplementary Material for \"Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn\". Bielefeld University (2009).",
-         "dynamicObjects.frontiers":"Hermann, T. (2009). Supplementary Material for \"Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn\". Bielefeld University.",
+         "dynamicObjects.apa":"Hermann, T. (2009).  <em>Supplementary Material for "Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn"</em>. Bielefeld University. doi:10.4119/unibi/2703564",
+         "dynamicObjects.mla":"Hermann, Thomas. <em>Supplementary Material for "Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn"</em>. Bielefeld University, 2009.",
+         "dynamicObjects.chicago":"<div style="text-indent:-25px; padding-left:25px;padding-bottom:0px;">Hermann, Thomas. 2009. <em>Supplementary Material for "Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn"</em>. Bielefeld University.</div>",
+         "dynamicObjects.ieee":" T. Hermann, <em>Supplementary Material for "Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn"</em>, Bielefeld University, 2009.",
+         "dynamicObjects.harvard":"Hermann, T., 2009. <em>Supplementary Material for "Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn"</em>, Bielefeld University.",
+         "dynamicObjects.ama":"Hermann T. <em>Supplementary Material for "Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn"</em>. Bielefeld University; 2009.",
+         "dynamicObjects.lncs":" Hermann, T.: Supplementary Material for "Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn". Bielefeld University (2009).",
+         "dynamicObjects.frontiers":"Hermann, T. (2009). Supplementary Material for "Sonifikation hochdimensionaler Daten - Funktionaler Klang zum Erkenntnisgewinn". Bielefeld University.",
          "dynamicObjects.titelZeitschriftPub":null,
          "dynamicObjects.journalLongTitle":null,
          "dynamicObjects.corporate_editor":null,
@@ -198,18 +198,18 @@
          "dynamicObjects.linkVolltextIntern":null,
          "dynamicObjects.linkVolltext":null,
          "dynamicObjects.related_material":null,
-         "dynamicObjects.apa":"de Castro Campos, M., Hermann, T., Schack, T., &amp; BlÃ¤sing, B. (2013). Representing the egocentric auditory space: Relationships of surrounding region concepts. <em>Acta Psychologica</em>, <em>142</em>(3), 410-418. doi:10.1016/j.actpsy.2012.12.010",
-         "dynamicObjects.mla":"de Castro Campos, Marcella, Hermann, Thomas, Schack, Thomas, and BlÃ¤sing, Bettina. âRepresenting the egocentric auditory space: Relationships of surrounding region conceptsâ. <em>Acta Psychologica</em> 142.3 (2013): 410-418.",
-         "dynamicObjects.chicago":"<div style=\"text-indent:-25px; padding-left:25px;padding-bottom:0px;\">de Castro Campos, Marcella, Hermann, Thomas, Schack, Thomas, and BlÃ¤sing, Bettina. 2013. âRepresenting the egocentric auditory space: Relationships of surrounding region conceptsâ. <em>Acta Psychologica</em> 142 (3): 410-418.</div>",
-         "dynamicObjects.ieee":" M. de Castro Campos, et al., âRepresenting the egocentric auditory space: Relationships of surrounding region conceptsâ, <em>Acta Psychologica</em>,  vol. 142, 2013,  pp. 410-418.",
+         "dynamicObjects.apa":"de Castro Campos, M., Hermann, T., Schack, T., & Bläsing, B. (2013). Representing the egocentric auditory space: Relationships of surrounding region concepts. <em>Acta Psychologica</em>, <em>142</em>(3), 410-418. doi:10.1016/j.actpsy.2012.12.010",
+         "dynamicObjects.mla":"de Castro Campos, Marcella, Hermann, Thomas, Schack, Thomas, and Bläsing, Bettina. “Representing the egocentric auditory space: Relationships of surrounding region concepts”. <em>Acta Psychologica</em> 142.3 (2013): 410-418.",
+         "dynamicObjects.chicago":"<div style="text-indent:-25px; padding-left:25px;padding-bottom:0px;">de Castro Campos, Marcella, Hermann, Thomas, Schack, Thomas, and Bläsing, Bettina. 2013. “Representing the egocentric auditory space: Relationships of surrounding region concepts”. <em>Acta Psychologica</em> 142 (3): 410-418.</div>",
+         "dynamicObjects.ieee":" M. de Castro Campos, et al., “Representing the egocentric auditory space: Relationships of surrounding region concepts”, <em>Acta Psychologica</em>,  vol. 142, 2013,  pp. 410-418.",
          "dynamicObjects.harvard":"de Castro Campos, M., et al., 2013. Representing the egocentric auditory space: Relationships of surrounding region concepts. <em>Acta Psychologica</em>, 142(3), p 410-418.",
-         "dynamicObjects.ama":"de Castro Campos M, Hermann T, Schack T, BlÃ¤sing B. Representing the egocentric auditory space: Relationships of surrounding region concepts. <em>Acta Psychologica</em>. 2013;142(3):410-418.",
-         "dynamicObjects.lncs":" de Castro Campos, M., Hermann, T., Schack, T., BlÃ¤sing, B.: Representing the egocentric auditory space: Relationships of surrounding region concepts. Acta Psychologica. 142, 410-418 (2013).",
-         "dynamicObjects.frontiers":"de Castro Campos, M., Hermann, T., Schack, T., and BlÃ¤sing, B. (2013). Representing the egocentric auditory space: Relationships of surrounding region concepts. <em>Acta Psychologica</em> 142, 410-418.",
+         "dynamicObjects.ama":"de Castro Campos M, Hermann T, Schack T, Bläsing B. Representing the egocentric auditory space: Relationships of surrounding region concepts. <em>Acta Psychologica</em>. 2013;142(3):410-418.",
+         "dynamicObjects.lncs":" de Castro Campos, M., Hermann, T., Schack, T., Bläsing, B.: Representing the egocentric auditory space: Relationships of surrounding region concepts. Acta Psychologica. 142, 410-418 (2013).",
+         "dynamicObjects.frontiers":"de Castro Campos, M., Hermann, T., Schack, T., and Bläsing, B. (2013). Representing the egocentric auditory space: Relationships of surrounding region concepts. <em>Acta Psychologica</em> 142, 410-418.",
          "dynamicObjects.titelZeitschriftPub":"Acta Psychologica",
          "dynamicObjects.journalLongTitle":"Acta psychologica : international journal of psychonomics",
          "dynamicObjects.corporate_editor":null,
-         "dynamicObjects.creatorOrcid":"de Castro Campos, Marcella(orcid:NA);Hermann, Thomas(orcid:0000-0001-7975-4363);Schack, Thomas(orcid:NA);BlÃ¤sing, Bettina(orcid:NA)"
+         "dynamicObjects.creatorOrcid":"de Castro Campos, Marcella(orcid:NA);Hermann, Thomas(orcid:0000-0001-7975-4363);Schack, Thomas(orcid:NA);Bläsing, Bettina(orcid:NA)"
       },
       {
          "_link_FIS":"https://fis-portal.uni-bielefeld.de/vivo/individual/publ_180235",
@@ -232,14 +232,14 @@
          "dynamicObjects.linkVolltextIntern":"https://pub.uni-bielefeld.de/record/2701116",
          "dynamicObjects.linkVolltext":null,
          "dynamicObjects.related_material":"material record public is_cited_by:2017409",
-         "dynamicObjects.apa":"Hermann, T., &amp; Ritter, H. (1999).  <em>Supplementary Material for \"Listen to your Data: Model-Based-Sonification for Data-Analysis\"</em>. Bielefeld University. doi:10.4119/unibi/2701116",
-         "dynamicObjects.mla":"Hermann, Thomas, and Ritter, Helge. <em>Supplementary Material for \"Listen to your Data: Model-Based-Sonification for Data-Analysis\"</em>. Bielefeld University, 1999.",
-         "dynamicObjects.chicago":"<div style=\"text-indent:-25px; padding-left:25px;padding-bottom:0px;\">Hermann, Thomas, and Ritter, Helge. 1999. <em>Supplementary Material for \"Listen to your Data: Model-Based-Sonification for Data-Analysis\"</em>. Bielefeld University.</div>",
-         "dynamicObjects.ieee":" T. Hermann and H. Ritter, <em>Supplementary Material for \"Listen to your Data: Model-Based-Sonification for Data-Analysis\"</em>, Bielefeld University, 1999.",
-         "dynamicObjects.harvard":"Hermann, T., &amp; Ritter, H., 1999. <em>Supplementary Material for \"Listen to your Data: Model-Based-Sonification for Data-Analysis\"</em>, Bielefeld University.",
-         "dynamicObjects.ama":"Hermann T, Ritter H. <em>Supplementary Material for \"Listen to your Data: Model-Based-Sonification for Data-Analysis\"</em>. Bielefeld University; 1999.",
-         "dynamicObjects.lncs":" Hermann, T., Ritter, H.: Supplementary Material for \"Listen to your Data: Model-Based-Sonification for Data-Analysis\". Bielefeld University (1999).",
-         "dynamicObjects.frontiers":"Hermann, T., and Ritter, H. (1999). Supplementary Material for \"Listen to your Data: Model-Based-Sonification for Data-Analysis\". Bielefeld University.",
+         "dynamicObjects.apa":"Hermann, T., & Ritter, H. (1999).  <em>Supplementary Material for "Listen to your Data: Model-Based-Sonification for Data-Analysis"</em>. Bielefeld University. doi:10.4119/unibi/2701116",
+         "dynamicObjects.mla":"Hermann, Thomas, and Ritter, Helge. <em>Supplementary Material for "Listen to your Data: Model-Based-Sonification for Data-Analysis"</em>. Bielefeld University, 1999.",
+         "dynamicObjects.chicago":"<div style="text-indent:-25px; padding-left:25px;padding-bottom:0px;">Hermann, Thomas, and Ritter, Helge. 1999. <em>Supplementary Material for "Listen to your Data: Model-Based-Sonification for Data-Analysis"</em>. Bielefeld University.</div>",
+         "dynamicObjects.ieee":" T. Hermann and H. Ritter, <em>Supplementary Material for "Listen to your Data: Model-Based-Sonification for Data-Analysis"</em>, Bielefeld University, 1999.",
+         "dynamicObjects.harvard":"Hermann, T., & Ritter, H., 1999. <em>Supplementary Material for "Listen to your Data: Model-Based-Sonification for Data-Analysis"</em>, Bielefeld University.",
+         "dynamicObjects.ama":"Hermann T, Ritter H. <em>Supplementary Material for "Listen to your Data: Model-Based-Sonification for Data-Analysis"</em>. Bielefeld University; 1999.",
+         "dynamicObjects.lncs":" Hermann, T., Ritter, H.: Supplementary Material for "Listen to your Data: Model-Based-Sonification for Data-Analysis". Bielefeld University (1999).",
+         "dynamicObjects.frontiers":"Hermann, T., and Ritter, H. (1999). Supplementary Material for "Listen to your Data: Model-Based-Sonification for Data-Analysis". Bielefeld University.",
          "dynamicObjects.titelZeitschriftPub":null,
          "dynamicObjects.journalLongTitle":null,
          "dynamicObjects.corporate_editor":null,
@@ -266,25 +266,25 @@
          "dynamicObjects.linkVolltextIntern":"https://pub.uni-bielefeld.de/record/2017114",
          "dynamicObjects.linkVolltext":null,
          "dynamicObjects.related_material":"material record public earlier_version:2700951",
-         "dynamicObjects.apa":"Baier, G., Hermann, T., &amp; MÃ¼ller, M. (2005). Polyrhythmic Organization of Coupled Nonlinear Oscillators. In School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia (Ed.), <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em> (pp. 5-10). Los Alamitos, CA, USA: IEEE Computer Society. <a href=\"https://doi.org/10.1109/IV.2005.99\" target=\"_blank\">https://doi.org/10.1109/IV.2005.99</a>",
-         "dynamicObjects.mla":"Baier, Gerold, Hermann, Thomas, and MÃ¼ller, Marcus. âPolyrhythmic Organization of Coupled Nonlinear Oscillatorsâ. <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>. Ed. School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia. Los Alamitos, CA, USA: IEEE Computer Society, 2005. 5-10.",
-         "dynamicObjects.chicago":"<div style=\"text-indent:-25px; padding-left:25px;padding-bottom:0px;\">Baier, Gerold, Hermann, Thomas, and MÃ¼ller, Marcus. 2005. âPolyrhythmic Organization of Coupled Nonlinear Oscillatorsâ. In <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>, ed. School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia, 5-10. Los Alamitos, CA, USA: IEEE Computer Society.</div>",
-         "dynamicObjects.ieee":" G. Baier, T. Hermann, and M. MÃ¼ller, âPolyrhythmic Organization of Coupled Nonlinear Oscillatorsâ, <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>, School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia, ed.,  Los Alamitos, CA, USA: IEEE Computer Society, 2005,  pp.5-10.",
-         "dynamicObjects.harvard":"Baier, G., Hermann, T., &amp; MÃ¼ller, M., 2005. Polyrhythmic Organization of Coupled Nonlinear Oscillators. In School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia, ed. <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>.  Los Alamitos, CA, USA: IEEE Computer Society, pp. 5-10.",
-         "dynamicObjects.ama":"Baier G, Hermann T, MÃ¼ller M. Polyrhythmic Organization of Coupled Nonlinear Oscillators. In: School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia, ed. <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>. Los Alamitos, CA, USA: IEEE Computer Society;  2005: 5-10.",
-         "dynamicObjects.lncs":" Baier, G., Hermann, T., MÃ¼ller, M.: Polyrhythmic Organization of Coupled Nonlinear Oscillators. In: School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia (ed.) IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05). p. 5-10. IEEE Computer Society, Los Alamitos, CA, USA (2005).",
-         "dynamicObjects.frontiers":"Baier, G., Hermann, T., and MÃ¼ller, M. (2005). âPolyrhythmic Organization of Coupled Nonlinear Oscillatorsâ in <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>, School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia ed. (Los Alamitos, CA, USA: IEEE Computer Society), 5-10.",
+         "dynamicObjects.apa":"Baier, G., Hermann, T., & Müller, M. (2005). Polyrhythmic Organization of Coupled Nonlinear Oscillators. In School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia (Ed.), <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em> (pp. 5-10). Los Alamitos, CA, USA: IEEE Computer Society. <a href="https://doi.org/10.1109/IV.2005.99" target="_blank">https://doi.org/10.1109/IV.2005.99</a>",
+         "dynamicObjects.mla":"Baier, Gerold, Hermann, Thomas, and Müller, Marcus. “Polyrhythmic Organization of Coupled Nonlinear Oscillators”. <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>. Ed. School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia. Los Alamitos, CA, USA: IEEE Computer Society, 2005. 5-10.",
+         "dynamicObjects.chicago":"<div style="text-indent:-25px; padding-left:25px;padding-bottom:0px;">Baier, Gerold, Hermann, Thomas, and Müller, Marcus. 2005. “Polyrhythmic Organization of Coupled Nonlinear Oscillators”. In <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>, ed. School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia, 5-10. Los Alamitos, CA, USA: IEEE Computer Society.</div>",
+         "dynamicObjects.ieee":" G. Baier, T. Hermann, and M. Müller, “Polyrhythmic Organization of Coupled Nonlinear Oscillators”, <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>, School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia, ed.,  Los Alamitos, CA, USA: IEEE Computer Society, 2005,  pp.5-10.",
+         "dynamicObjects.harvard":"Baier, G., Hermann, T., & Müller, M., 2005. Polyrhythmic Organization of Coupled Nonlinear Oscillators. In School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia, ed. <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>.  Los Alamitos, CA, USA: IEEE Computer Society, pp. 5-10.",
+         "dynamicObjects.ama":"Baier G, Hermann T, Müller M. Polyrhythmic Organization of Coupled Nonlinear Oscillators. In: School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia, ed. <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>. Los Alamitos, CA, USA: IEEE Computer Society;  2005: 5-10.",
+         "dynamicObjects.lncs":" Baier, G., Hermann, T., Müller, M.: Polyrhythmic Organization of Coupled Nonlinear Oscillators. In: School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia (ed.) IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05). p. 5-10. IEEE Computer Society, Los Alamitos, CA, USA (2005).",
+         "dynamicObjects.frontiers":"Baier, G., Hermann, T., and Müller, M. (2005). “Polyrhythmic Organization of Coupled Nonlinear Oscillators” in <em>IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)</em>, School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia ed. (Los Alamitos, CA, USA: IEEE Computer Society), 5-10.",
          "dynamicObjects.titelZeitschriftPub":"IV' 05: Proceedings of the Ninth International Conference on Information Visualisation (IV'05)",
          "dynamicObjects.journalLongTitle":null,
-         "dynamicObjects.corporate_editor":"\"School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia\"",
-         "dynamicObjects.creatorOrcid":"Baier, Gerold(orcid:NA);Hermann, Thomas(orcid:0000-0001-7975-4363);MÃ¼ller, Marcus(orcid:NA)"
+         "dynamicObjects.corporate_editor":""School of Computing and Mathematical Sciences (Greenwich). Department of Information Systems and Multimedia"",
+         "dynamicObjects.creatorOrcid":"Baier, Gerold(orcid:NA);Hermann, Thomas(orcid:0000-0001-7975-4363);Müller, Marcus(orcid:NA)"
       }
    ],
    "Projekte":[
       {
          "id":6275,
          "_link_FIS":"https://fis-portal.uni-bielefeld.de/vivo/individual/proj_6275",
-         "defaulttext":"Sound Refiner: Echtzeit-adaptive Auditive Augmentierung fÃ¼r Diskretion in offenen GeschÃ¤fts- und",
+         "defaulttext":"Sound Refiner: Echtzeit-adaptive Auditive Augmentierung für Diskretion in offenen Geschäfts- und",
          "uniquename":"D409001090003290000",
          "projectObjective":"Forschung",
          "status":"beendet",
@@ -323,7 +323,7 @@
          "subjectAreas":[
             {
                "id":"3560",
-               "name":"KÃ¼nstliche Intelligenz",
+               "name":"Künstliche Intelligenz",
                "_link_FIS":"https://fis-portal.uni-bielefeld.de/vivo/individual/FG_3560"
             },
             {
@@ -382,8 +382,8 @@
          "status":"beendet",
          "startdate":"2007-01-01",
          "enddate":"2019-12-31",
-         "longtext":"Im Zentrum steht die Frage: Wie kÃ¶nnen wir technische Systeme so gestalten, dass sie mit dem Menschen auf einer mÃ¶glichst natÃ¼rlichen, semantischen Ebene interagieren und dabei ihre eigenen FÃ¤higkeiten durch AdaptivitÃ¤t, Selbstorganisation und Lernen an wechselnde Randbedingungen mÃ¶glichst flexibel anpassen kÃ¶nnen? FÃ¼r die LÃ¶sung dieser Frage fÃ¼hrt der Exzellenzcluster die Expertise von Informatikern mit einschlÃ¤gigen Forschungslinien in Biologie, Psychologie und Linguistik zusammen, um die Entwicklung technischer kognitiver Systeme durch Erkenntnisse Ã¼ber reale kognitive Systeme zu fundieren, innovative, Ã¼ber klassische KI-AnsÃ¤tze hinausreichende LÃ¶sungswege durch Verbindung von Expertise aus Ingenieur-, Natur- und Humanwissenschaften zu erschlieÃen und disziplinÃ¼bergreifende, international ausgerichtete Ausbildungs- und Forschungsprogramme fÃ¼r Nachwuchswissenschaftler zu etablieren.\nVier SchlÃ¼sselfelder fÃ¼r kognitive Interaktion prÃ¤gen das Forschungsprogramm des Exzellenzclusters: \"Intelligente Bewegung\", \"Systeme mit Aufmerksamkeit\", \"Situierte Kommunikation\" sowie \"GedÃ¤chtnis und Lernen\". Intelligente Bewegung ist die Basis, um kÃ¼nftige Roboter handlungsfÃ¤higer zu machen. Wie kÃ¶nnen wir die vielen Freiheitsgrade eines Roboters koordinieren, um dem hoch entwickelten Bewegungsgeschick von Mensch und den meisten Tieren nÃ¤herzukommen? Im Bereich \"Systeme mit Aufmerksamkeit\" werden Mechanismen der Aufmerksamkeitserkennung, -Steuerung und Koordination erforscht, um kognitive technische Systeme zu ermÃ¶glichen, die besser auf unsere WÃ¼nsche achten und reagieren kÃ¶nnen.\nSituierte Kommunikation erfordert die Erforschung und technische Nachbildung von Koordinationsmechanismen zwischen Sprache, Sehen und Handeln, um kÃ¼nstliche Systeme zu befÃ¤higen, kooperativ und kontextsensitiv mit Menschen zu interagieren. Im Bereich \"GedÃ¤chtnis und Lernen\" steht ein tieferes VerstÃ¤ndnis von Prozessen der Speicherung, Organisation und des inhaltsbasierten Abrufs von Erfahrung und Wissen im Vordergrund, um Computer und kÃ¼nftige Roboter mit besserem Hintergrundwissen und LernfÃ¤higkeit auszustatten.\nEng verbunden mit der Erforschung dieser Themen sieht der Exzellenzcluster als wichtigen Beitrag, Evaluierungsmethodiken und Benchmarkaufgaben zu erarbeiten, um international kompetitive Standards fÃ¼r herausragende Forschungsergebnisse in Cognitive Interaction Technology zu setzen. Die Vision ist, einr stimulierendn Forschungsinfrastruktur zu schaffen, in der Nachwuchswissenschaftler in strukturierten PromotionsstudiengÃ¤ngen und durch eine vorgelagerte, sehr frÃ¼hzeitige Integration in Forschungsarbeiten zÃ¼gig an die internationale Spitze der interdisziplinÃ¤ren Forschung auf dem Gebiet kognitiver Systeme herangefÃ¼hrt werden.",
-         "longtext_en":"Im Zentrum steht die Frage: Wie kÃ¶nnen wir technische Systeme so gestalten, dass sie mit dem Menschen auf einer mÃ¶glichst natÃ¼rlichen, semantischen Ebene interagieren und dabei ihre eigenen FÃ¤higkeiten durch AdaptivitÃ¤t, Selbstorganisation und Lernen an wechselnde Randbedingungen mÃ¶glichst flexibel anpassen kÃ¶nnen? FÃ¼r die LÃ¶sung dieser Frage fÃ¼hrt der Exzellenzcluster die Expertise von Informatikern mit einschlÃ¤gigen Forschungslinien in Biologie, Psychologie und Linguistik zusammen, um die Entwicklung technischer kognitiver Systeme durch Erkenntnisse Ã¼ber reale kognitive Systeme zu fundieren, innovative, Ã¼ber klassische KI-AnsÃ¤tze hinausreichende LÃ¶sungswege durch Verbindung von Expertise aus Ingenieur-, Natur- und Humanwissenschaften zu erschlieÃen und disziplinÃ¼bergreifende, international ausgerichtete Ausbildungs- und Forschungsprogramme fÃ¼r Nachwuchswissenschaftler zu etablieren.\nVier SchlÃ¼sselfelder fÃ¼r kognitive Interaktion prÃ¤gen das Forschungsprogramm des Exzellenzclusters: \"Intelligente Bewegung\", \"Systeme mit Aufmerksamkeit\", \"Situierte Kommunikation\" sowie \"GedÃ¤chtnis und Lernen\". Intelligente Bewegung ist die Basis, um kÃ¼nftige Roboter handlungsfÃ¤higer zu machen. Wie kÃ¶nnen wir die vielen Freiheitsgrade eines Roboters koordinieren, um dem hoch entwickelten Bewegungsgeschick von Mensch und den meisten Tieren nÃ¤herzukommen? Im Bereich \"Systeme mit Aufmerksamkeit\" werden Mechanismen der Aufmerksamkeitserkennung, -Steuerung und Koordination erforscht, um kognitive technische Systeme zu ermÃ¶glichen, die besser auf unsere WÃ¼nsche achten und reagieren kÃ¶nnen.\nSituierte Kommunikation erfordert die Erforschung und technische Nachbildung von Koordinationsmechanismen zwischen Sprache, Sehen und Handeln, um kÃ¼nstliche Systeme zu befÃ¤higen, kooperativ und kontextsensitiv mit Menschen zu interagieren. Im Bereich \"GedÃ¤chtnis und Lernen\" steht ein tieferes VerstÃ¤ndnis von Prozessen der Speicherung, Organisation und des inhaltsbasierten Abrufs von Erfahrung und Wissen im Vordergrund, um Computer und kÃ¼nftige Roboter mit besserem Hintergrundwissen und LernfÃ¤higkeit auszustatten.\nEng verbunden mit der Erforschung dieser Themen sieht der Exzellenzcluster als wichtigen Beitrag, Evaluierungsmethodiken und Benchmarkaufgaben zu erarbeiten, um international kompetitive Standards fÃ¼r herausragende Forschungsergebnisse in Cognitive Interaction Technology zu setzen. Die Vision ist, einr stimulierendn Forschungsinfrastruktur zu schaffen, in der Nachwuchswissenschaftler in strukturierten PromotionsstudiengÃ¤ngen und durch eine vorgelagerte, sehr frÃ¼hzeitige Integration in Forschungsarbeiten zÃ¼gig an die internationale Spitze der interdisziplinÃ¤ren Forschung auf dem Gebiet kognitiver Systeme herangefÃ¼hrt werden.",
+         "longtext":"Im Zentrum steht die Frage: Wie können wir technische Systeme so gestalten, dass sie mit dem Menschen auf einer möglichst natürlichen, semantischen Ebene interagieren und dabei ihre eigenen Fähigkeiten durch Adaptivität, Selbstorganisation und Lernen an wechselnde Randbedingungen möglichst flexibel anpassen können? Für die Lösung dieser Frage führt der Exzellenzcluster die Expertise von Informatikern mit einschlägigen Forschungslinien in Biologie, Psychologie und Linguistik zusammen, um die Entwicklung technischer kognitiver Systeme durch Erkenntnisse über reale kognitive Systeme zu fundieren, innovative, über klassische KI-Ansätze hinausreichende Lösungswege durch Verbindung von Expertise aus Ingenieur-, Natur- und Humanwissenschaften zu erschließen und disziplinübergreifende, international ausgerichtete Ausbildungs- und Forschungsprogramme für Nachwuchswissenschaftler zu etablieren.nVier Schlüsselfelder für kognitive Interaktion prägen das Forschungsprogramm des Exzellenzclusters: "Intelligente Bewegung", "Systeme mit Aufmerksamkeit", "Situierte Kommunikation" sowie "Gedächtnis und Lernen". Intelligente Bewegung ist die Basis, um künftige Roboter handlungsfähiger zu machen. Wie können wir die vielen Freiheitsgrade eines Roboters koordinieren, um dem hoch entwickelten Bewegungsgeschick von Mensch und den meisten Tieren näherzukommen? Im Bereich "Systeme mit Aufmerksamkeit" werden Mechanismen der Aufmerksamkeitserkennung, -Steuerung und Koordination erforscht, um kognitive technische Systeme zu ermöglichen, die besser auf unsere Wünsche achten und reagieren können.nSituierte Kommunikation erfordert die Erforschung und technische Nachbildung von Koordinationsmechanismen zwischen Sprache, Sehen und Handeln, um künstliche Systeme zu befähigen, kooperativ und kontextsensitiv mit Menschen zu interagieren. Im Bereich "Gedächtnis und Lernen" steht ein tieferes Verständnis von Prozessen der Speicherung, Organisation und des inhaltsbasierten Abrufs von Erfahrung und Wissen im Vordergrund, um Computer und künftige Roboter mit besserem Hintergrundwissen und Lernfähigkeit auszustatten.nEng verbunden mit der Erforschung dieser Themen sieht der Exzellenzcluster als wichtigen Beitrag, Evaluierungsmethodiken und Benchmarkaufgaben zu erarbeiten, um international kompetitive Standards für herausragende Forschungsergebnisse in Cognitive Interaction Technology zu setzen. Die Vision ist, einr stimulierendn Forschungsinfrastruktur zu schaffen, in der Nachwuchswissenschaftler in strukturierten Promotionsstudiengängen und durch eine vorgelagerte, sehr frühzeitige Integration in Forschungsarbeiten zügig an die internationale Spitze der interdisziplinären Forschung auf dem Gebiet kognitiver Systeme herangeführt werden.",
+         "longtext_en":"Im Zentrum steht die Frage: Wie können wir technische Systeme so gestalten, dass sie mit dem Menschen auf einer möglichst natürlichen, semantischen Ebene interagieren und dabei ihre eigenen Fähigkeiten durch Adaptivität, Selbstorganisation und Lernen an wechselnde Randbedingungen möglichst flexibel anpassen können? Für die Lösung dieser Frage führt der Exzellenzcluster die Expertise von Informatikern mit einschlägigen Forschungslinien in Biologie, Psychologie und Linguistik zusammen, um die Entwicklung technischer kognitiver Systeme durch Erkenntnisse über reale kognitive Systeme zu fundieren, innovative, über klassische KI-Ansätze hinausreichende Lösungswege durch Verbindung von Expertise aus Ingenieur-, Natur- und Humanwissenschaften zu erschließen und disziplinübergreifende, international ausgerichtete Ausbildungs- und Forschungsprogramme für Nachwuchswissenschaftler zu etablieren.nVier Schlüsselfelder für kognitive Interaktion prägen das Forschungsprogramm des Exzellenzclusters: "Intelligente Bewegung", "Systeme mit Aufmerksamkeit", "Situierte Kommunikation" sowie "Gedächtnis und Lernen". Intelligente Bewegung ist die Basis, um künftige Roboter handlungsfähiger zu machen. Wie können wir die vielen Freiheitsgrade eines Roboters koordinieren, um dem hoch entwickelten Bewegungsgeschick von Mensch und den meisten Tieren näherzukommen? Im Bereich "Systeme mit Aufmerksamkeit" werden Mechanismen der Aufmerksamkeitserkennung, -Steuerung und Koordination erforscht, um kognitive technische Systeme zu ermöglichen, die besser auf unsere Wünsche achten und reagieren können.nSituierte Kommunikation erfordert die Erforschung und technische Nachbildung von Koordinationsmechanismen zwischen Sprache, Sehen und Handeln, um künstliche Systeme zu befähigen, kooperativ und kontextsensitiv mit Menschen zu interagieren. Im Bereich "Gedächtnis und Lernen" steht ein tieferes Verständnis von Prozessen der Speicherung, Organisation und des inhaltsbasierten Abrufs von Erfahrung und Wissen im Vordergrund, um Computer und künftige Roboter mit besserem Hintergrundwissen und Lernfähigkeit auszustatten.nEng verbunden mit der Erforschung dieser Themen sieht der Exzellenzcluster als wichtigen Beitrag, Evaluierungsmethodiken und Benchmarkaufgaben zu erarbeiten, um international kompetitive Standards für herausragende Forschungsergebnisse in Cognitive Interaction Technology zu setzen. Die Vision ist, einr stimulierendn Forschungsinfrastruktur zu schaffen, in der Nachwuchswissenschaftler in strukturierten Promotionsstudiengängen und durch eine vorgelagerte, sehr frühzeitige Integration in Forschungsarbeiten zügig an die internationale Spitze der interdisziplinären Forschung auf dem Gebiet kognitiver Systeme herangeführt werden.",
          "subjectAreas":[
             {
                "id":"765",
@@ -394,7 +394,7 @@
          "members":[
             {
                "position":"Projektleitung",
-               "lastname":"DÃ¼rr",
+               "lastname":"Dürr",
                "firstname":"Volker"
             },
             {
@@ -404,12 +404,12 @@
             },
             {
                "position":"Projektleitung",
-               "lastname":"MÃ¶ller",
+               "lastname":"Möller",
                "firstname":"Ralf"
             },
             {
                "position":"Projektleitung",
-               "lastname":"RÃ¼ckert",
+               "lastname":"Rückert",
                "firstname":"Ulrich"
             },
             {
@@ -424,7 +424,7 @@
             },
             {
                "position":"Projektleitung",
-               "lastname":"RÃ¶ckner",
+               "lastname":"Röckner",
                "firstname":"Michael"
             },
             {
@@ -515,11 +515,11 @@
       {
          "id":34,
          "_link_FIS":"https://fis-portal.uni-bielefeld.de/vivo/individual/pbp_34",
-         "status":"verÃ¶ffentlicht",
-         "name":" TÃ¼r-Sicherheitsvorrichtung fÃ¼r eine TÃ¼r",
+         "status":"veröffentlicht",
+         "name":" Tür-Sicherheitsvorrichtung für eine Tür",
          "datumAnmeldung":"30.05.2016",
          "Anmeldenummer":"DE102017209064A",
-         "VerÃ¶ffentlichungsnummer":"DE102017209064A1",
+         "Veröffentlichungsnummer":"DE102017209064A1",
          "Land der Anmeldung":"Deutschland",
          "subjectAreas":[
             {
@@ -562,8 +562,8 @@
                "firstname":"Helge"
             },
             {
-               "lastname":"Ãckermann",
-               "firstname":"AndrÃ©"
+               "lastname":"Ückermann",
+               "firstname":"André"
             }
          ]
       },
@@ -571,11 +571,11 @@
          "id":35,
          "_link_FIS":"https://fis-portal.uni-bielefeld.de/vivo/individual/pbp_35",
          "status":"erteilt",
-         "name":"Verfahren zum Erfassen eines Gegenstandes zwischen einer TÃ¼rzarge und einem TÃ¼rblatt einer geÃ¶ffneten TÃ¼r sowie TÃ¼r-Sicherungsvorrichtung",
+         "name":"Verfahren zum Erfassen eines Gegenstandes zwischen einer Türzarge und einem Türblatt einer geöffneten Tür sowie Tür-Sicherungsvorrichtung",
          "datumErteilung":"24.01.2019",
          "datumAnmeldung":"28.11.2017",
          "Anmeldenummer":"DE102017221262A",
-         "VerÃ¶ffentlichungsnummer":"DE102017221262A1",
+         "Veröffentlichungsnummer":"DE102017221262A1",
          "Land der Anmeldung":"Deutschland",
          "subjectAreas":[
             {
@@ -618,7 +618,7 @@
                "firstname":"Helge"
             },
             {
-               "lastname":"Ãckermann",
+               "lastname":"Ückermann",
                "firstname":"Andre"
             }
          ]
