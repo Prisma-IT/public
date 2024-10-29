@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Roxen Site News Feed</title>
+<link>https://prisma-website.tst.prisma-it.com</link>
+<description>Roxen Site News Feed</description>
+<item>
+<title>coocoo test</title>
+<description>new test from roxen to coocoo
+</description>
+<content:encoded>new test from roxen to coocoo
+</content:encoded>
+<author>"Diogo Lopes"</author>
+<guid>3bd09346-b76c-40e5-b8cd-bfc10db28fce-comp:0000671f0c4e:0000000094:6bfe</guid>
+<media:content>/__uuid/8917b347-1329-4e07-9cdb-047c4e12aa36/roxen.jpg</media:content>
+<pubDate>Mon, 28 Oct 2024 11:39:24 GMT
+</pubDate>
+</item>
+</channel>
+</rss>
